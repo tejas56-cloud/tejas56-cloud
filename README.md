@@ -10,7 +10,7 @@ Cybersecurity is about designing systems where an attacker-regardless of their e
 🧠My approach-
 I don't just look at code; I look at the perimeter.  
 My approach to technology is  by systemic pattern recognition and adversarial logic. not just observing infrastructure, but deconstruting it to understand the underlying trust boundaries, and communication protocols that govern data integrity.
-security is not about 
+
 
 
 
